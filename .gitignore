@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .tox/
+package-src/dist/
+*.egg-info/
+package-src/model/trained/*.pkl
